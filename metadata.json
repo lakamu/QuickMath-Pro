@@ -1,0 +1,5 @@
+{
+  "name": "QuickMath Pro",
+  "description": "A high-stakes, fast-paced mental arithmetic game where you have 10 seconds to solve each problem. One wrong move or a timeout means Game Over!",
+  "requestFramePermissions": []
+}
